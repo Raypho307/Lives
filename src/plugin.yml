@@ -1,0 +1,9 @@
+name: Lives
+version: 1.0
+author: Raypho
+main: com.github.raypho1.deahts.Main
+api-version: 1.21.4
+commands:
+  setdeaths:
+    description: "Changes Deaths of Player"
+    usage: "/setdeaths <Player> <Anzahl>"
